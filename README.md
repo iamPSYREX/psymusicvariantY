@@ -1,5 +1,5 @@
 <h1 align= center><b>⭐️ YMB ⭐️</b></h1>
-<h3 align = center> A Telegram Bot written in Python to deploy a ¥ukkí bot on telegram
+<h3 align = center> A Telegram Bot written in Python to deploy ¥ukkí MB on Railway
 </h3>
 
 <p align="center">
