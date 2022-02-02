@@ -65,7 +65,7 @@
 </h2>
 
 <p align="center">
-<a href="t.me/officialyukki"> Whole ¥ukkí team </a>
+<a href="https://t.me/officialyukki"> Whole ¥ukkí team </a>
  </p>  
 <p align="center">
  With <3 PSYREX has done nothing
