@@ -65,12 +65,11 @@
 </h2>
 
 <p align="center">
- Whole ¥ukki team 
- With <3 
- psyrex has done nothing
+<a href="t.me/officialyukki"> Whole ¥ukkí team </a>
+ </p>  
+<p align="center">
+ With <3 PSYREX has done nothing
 </p>
-
-
 
 ## License
 
