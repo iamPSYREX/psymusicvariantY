@@ -65,10 +65,7 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/officialyukki"> Whole ¥ukkí team </a>
- </p>  
-<p align="center">
- With <3 PSYREX has done nothing
+Whole ¥ukkí team With <3 PSYREX has done nothing
 </p>
 
 ## License
@@ -77,5 +74,4 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.md` 
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Y M B.
-Can't use certain keywords here because of .xyz reasons
+Special thanks to all these amazing projects/people which/who help power YMB.
